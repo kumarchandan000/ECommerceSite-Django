@@ -1,0 +1,53 @@
+# Core Django dependencies
+Django==3.0.5
+asgiref==3.8.1
+sqlparse==0.3.1
+pytz==2024.1
+
+# Django extensions and utilities
+django-betterforms==2.0.0
+django-ckeditor==6.7.1
+django-crispy-forms==2.3
+django-js-asset==2.2.0
+django-mapbox-location-field==2.1.0
+django-ratelimit==4.1.0
+django-widget-tweaks==1.4.8
+
+# Web scraping and HTML processing
+cssselect2==0.7.0
+html5lib==1.1
+tinycss2==1.4.0
+webencodings==0.5.1
+
+# Static files and images
+pillow==10.4.0
+reportlab==4.2.5
+svglib==1.5.1
+
+# QR codes and PDF processing
+qrcode==8.0
+pypdf==5.1.0
+
+# Requests and URL handling
+requests==2.32.3
+urllib3==2.2.3
+idna==3.10
+chardet==5.2.0
+charset-normalizer==3.4.0
+
+# Security and cryptography
+cryptography==43.0.3
+cffi==1.17.1
+pycparser==2.22
+
+# General utilities
+colorama==0.4.6
+MarkupSafe==2.1.5
+packaging==24.1
+tzlocal==5.2
+typing_extensions==4.12.2
+six==1.16.0
+filelock==3.16.0
+
+# For rendering templates
+Jinja2==3.1.4
