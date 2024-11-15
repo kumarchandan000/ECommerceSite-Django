@@ -12,8 +12,12 @@ SECRET_KEY = '#vw(03o=(9kbvg!&2d5i!2$_58x@_-3l4wujpow6(ym37jxnza'
 
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
+ALLOWED_HOSTS = [
+    "ecommercesite-9f27.onrender.com",  # Add your Render domain
+    "localhost",                       # For local development
+    "127.0.0.1",                       # For local development
+]
 
-ALLOWED_HOSTS = []
 
 
 # Application definition
