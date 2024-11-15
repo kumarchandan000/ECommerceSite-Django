@@ -18,6 +18,8 @@ cssselect2==0.7.0
 html5lib==1.1
 tinycss2==1.4.0
 webencodings==0.5.1
+xhtml2pdf==0.2.16
+
 
 # Static files and images
 pillow==10.4.0
