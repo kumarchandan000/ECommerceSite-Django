@@ -48,6 +48,7 @@ tzlocal==5.2
 typing_extensions==4.12.2
 six==1.16.0
 filelock==3.16.0
+gunicorn==20.1.0
 
 # For rendering templates
 Jinja2==3.1.4
